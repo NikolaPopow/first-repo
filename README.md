@@ -2,7 +2,4 @@
 
 update s bash
 update s kostenurka
-...
-bla 
-bla
-
+dots here...
